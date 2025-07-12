@@ -30,3 +30,4 @@
 /home/user/Desktop/ngulik/webapi/obj/Debug/net9.0/webapi.pdb
 /home/user/Desktop/ngulik/webapi/obj/Debug/net9.0/webapi.genruntimeconfig.cache
 /home/user/Desktop/ngulik/webapi/obj/Debug/net9.0/ref/webapi.dll
+/home/user/Desktop/ngulik/webapi/obj/Debug/net9.0/webapi.sourcelink.json
